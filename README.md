@@ -12,7 +12,6 @@ This project demonstrates how to integrate and interact with the Random User Gen
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
